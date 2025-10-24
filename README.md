@@ -25,14 +25,15 @@ Install prerequisites
 <b>Install Python in Your Computer</b> <br><br>
 <b>Create a Virtual Environment</b> <br>
 Run this command to create an isolated environment: <br>
-<\t>python -m venv .venv<br><br>
+</t>python -m venv .venv<br><br>
 <b>Active it</b><br>
 <b>Windows (CMD)</b><br>
-<\t>.venv\Scripts\activate<br><br>
+</t>.venv\Scripts\activate<br><br>
 <b>Install Required Packages</b><br>
 With your virtual environment active, install dependencies:<br>
-pip install --upgrade pip<br>
-pip install simpy numpy matplotlib pandas
+</t>pip install --upgrade pip<br>
+</t>pip install simpy numpy matplotlib pandas
+
 
 
 
